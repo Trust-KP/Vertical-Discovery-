@@ -256,3 +256,157 @@ structures that reveal deeper explanatory conditions.
 ------------------------------------------------------------
 END SECTION
 ------------------------------------------------------------
+
+------------------------------------------------------------
+APPENDIX A — OPERATIONAL PRIMITIVES AND ONTOLOGICAL PRIMITIVES
+------------------------------------------------------------
+
+Purpose
+------------------------------------------------------------
+
+This appendix clarifies the relationship between operational
+primitives and ontological primitives within theoretical
+framework construction.
+
+The distinction is important for understanding how deeper
+explanatory layers may be discovered during theory development.
+
+
+1. Definitions
+------------------------------------------------------------
+
+Operational Primitive
+
+Operational primitives are the minimal elements required
+for a theory to function at the level of mechanism or
+process.
+
+They describe how a system operates in practice.
+
+Operational primitives typically appear in the early stages
+of theory development because they correspond to observable
+or modelled components of a system.
+
+Examples in coordination systems may include:
+
+• contribution events
+• observation of behaviour
+• interpretation mechanisms
+• allocation mechanisms
+
+
+Ontological Primitive
+
+Ontological primitives represent deeper conditions that
+must exist for the operational primitives themselves to
+be meaningful or coherent.
+
+These primitives describe the fundamental structure of
+the system's existence rather than its operational
+mechanisms.
+
+They answer the question:
+
+"What must be true for the operational mechanisms to exist
+at all?"
+
+
+2. Relationship Between the Two
+------------------------------------------------------------
+
+Operational primitives can reveal deeper ontological
+primitives when their functional requirements are examined.
+
+If an operational mechanism cannot function without a
+particular underlying condition, that condition may
+represent a deeper primitive layer of the theory.
+
+The discovery process may therefore proceed as follows:
+
+Operational Primitives
+↓
+Dependency Analysis
+↓
+Underlying Condition
+↓
+Ontological Primitive
+
+
+3. Example from the Trust Framework
+------------------------------------------------------------
+
+Initial operational primitives identified in the Trust
+Framework include:
+
+Contribution
+Observation
+Trust interpretation
+Credibility
+Credit
+
+
+Analysis of these mechanisms revealed a deeper requirement.
+
+Trust mechanisms depend on the expectation that interaction
+between agents will persist across time.
+
+Without the possibility of continued interaction:
+
+• contributions lose strategic meaning
+• observations cannot accumulate
+• trust signals become irrelevant
+
+
+This analysis reveals a deeper primitive condition:
+
+Continuation.
+
+
+The conceptual hierarchy therefore becomes:
+
+Continuation
+↓
+Coexistence systems
+↓
+Coordination mechanisms
+↓
+Trust formation
+↓
+Credibility
+↓
+Credit
+
+
+4. Methodological Implication
+------------------------------------------------------------
+
+Operational primitives within a theoretical framework can
+function as probes that expose deeper ontological conditions.
+
+By analysing what must exist for operational mechanisms
+to function coherently, researchers may identify more
+fundamental primitives underlying the system.
+
+This process corresponds to the methodological pattern
+described in this work as:
+
+Vertical Primitive Discovery.
+
+
+5. Scope and Limitation
+------------------------------------------------------------
+
+Operational primitives do not necessarily determine a
+unique ontological primitive.
+
+Multiple deeper explanations may sometimes exist.
+
+However, when a single underlying condition consistently
+explains the functional requirements of multiple operational
+mechanisms, that condition may reasonably be considered a
+candidate ontological primitive.
+
+
+------------------------------------------------------------
+END APPENDIX
+------------------------------------------------------------
